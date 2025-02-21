@@ -47,7 +47,7 @@ a {
 }
 
 .hero {
-    background: url('/images/banner-bg.jpg') center center no-repeat;
+    background: url('../images/banner-bg.jpg') center center no-repeat;
     background-size: cover;
     padding: 28px 0 146px;
     position: relative;
@@ -572,7 +572,7 @@ a {
     }
 
     .hero {
-        background: url('/images/banner-bg-tablet.jpg') center bottom no-repeat;
+        background: url('../images/banner-bg-tablet.jpg') center bottom no-repeat;
     }
 
     .post {
@@ -652,7 +652,7 @@ a {
     }
 
     .hero {
-        background: url('/images/banner-mobile.jpg') center bottom no-repeat;
+        background: url('../images/banner-mobile.jpg') center bottom no-repeat;
         height: 100vh;
         box-sizing: border-box;
         display: flex;
